@@ -5,7 +5,7 @@
   "firmVer": 1,
   "modVer": 1,
   "buildDate": 1,
-  "serverFilePath": "http://",
+  "serverFilePath": "https://github.com/apateti/firmwareImpFis/raw/main/firmware.bin",
   "fileSize": 1,
   "md5Checksum": "AF1234"
 }
