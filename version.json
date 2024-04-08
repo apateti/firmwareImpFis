@@ -3,9 +3,9 @@
   "buildNum": 1,
   "hardVer": 1,
   "firmVer": 1,
-  "modVer": 1,
+  "modVer": 2,
   "buildDate": 1,
   "serverFilePath": "https://github.com/apateti/firmwareImpFis/raw/main/firmware.bin",
   "fileSize": 1073072,
-  "md5Checksum": "0d4d497ff28e3d3fbb6d59fd4c4e902a"
+  "md5Checksum": "8613c3af83dc284f3cac41c3e76dbfac"
 }
